@@ -1,0 +1,446 @@
+{
+  "schematic": "Frob2354.kicad_sch",
+  "last_sync": "2026-10-02T22:34:41.468124+00:00",
+  "parts": {
+    "CC0603KRX7R9BB104": {
+      "file": "CC0603KRX7R9BB104_100nF_\u00b110%_50V_Ceramic_Capacitor_X7R_0603.pdf",
+      "manufacturer": "YAGEO",
+      "description": "100nF \u00b110% 50V Ceramic Capacitor X7R 0603",
+      "value": "100nF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C14663",
+      "downloaded_date": "2026-10-02T22:34:10.361044+00:00",
+      "source": "lcsc",
+      "lcsc": "C14663",
+      "status": "ok",
+      "references": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "C14",
+        "C15",
+        "C16",
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C29",
+        "C30",
+        "C31",
+        "C32"
+      ],
+      "size_bytes": 1131214,
+      "verification": "likely"
+    },
+    "CL10A106KP8NNNC": {
+      "file": "CL10A106KP8NNNC_10uF_\u00b110%_10V_Ceramic_Capacitor_X5R_0603.pdf",
+      "manufacturer": "Samsung Electro-Mechanics",
+      "description": "10uF \u00b110% 10V Ceramic Capacitor X5R 0603",
+      "value": "10uF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C19702",
+      "downloaded_date": "2026-10-02T22:34:11.565595+00:00",
+      "source": "lcsc",
+      "lcsc": "C19702",
+      "status": "ok",
+      "references": [
+        "C12",
+        "C28"
+      ],
+      "size_bytes": 7856403,
+      "verification": "unverified"
+    },
+    "CL10A475KO8NNNC": {
+      "file": "CL10A475KO8NNNC_4.7uF_\u00b110%_16V_Ceramic_Capacitor_X5R_0603.pdf",
+      "manufacturer": "Samsung Electro-Mechanics",
+      "description": "4.7uF \u00b110% 16V Ceramic Capacitor X5R 0603",
+      "value": "4.7uF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C19666",
+      "downloaded_date": "2026-10-02T22:34:13.012974+00:00",
+      "source": "lcsc",
+      "lcsc": "C19666",
+      "status": "ok",
+      "references": [
+        "C13",
+        "C17",
+        "C18"
+      ],
+      "size_bytes": 7856403,
+      "verification": "unverified"
+    },
+    "CL10C150JB8NNNC": {
+      "file": "CL10C150JB8NNNC_15pF_\u00b15%_50V_Ceramic_Capacitor_C0G_0603.pdf",
+      "manufacturer": "Samsung Electro-Mechanics",
+      "description": "15pF \u00b15% 50V Ceramic Capacitor C0G 0603",
+      "value": "15pF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1644",
+      "downloaded_date": "2026-10-02T22:34:14.824957+00:00",
+      "source": "lcsc",
+      "lcsc": "C1644",
+      "status": "ok",
+      "references": [
+        "C19",
+        "C20"
+      ],
+      "size_bytes": 7856403,
+      "verification": "unverified"
+    },
+    "CL10A105KB8NNNC": {
+      "file": "CL10A105KB8NNNC_1uF_\u00b110%_50V_Ceramic_Capacitor_X5R_0603.pdf",
+      "manufacturer": "Samsung Electro-Mechanics",
+      "description": "1uF \u00b110% 50V Ceramic Capacitor X5R 0603",
+      "value": "1uF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C15849",
+      "downloaded_date": "2026-10-02T22:34:16.165736+00:00",
+      "source": "lcsc",
+      "lcsc": "C15849",
+      "status": "ok",
+      "references": [
+        "C25",
+        "C27"
+      ],
+      "size_bytes": 7856403,
+      "verification": "unverified"
+    },
+    "CL21A226MAQNNNE": {
+      "file": "CL21A226MAQNNNE_22uF_\u00b120%_25V_Ceramic_Capacitor_X5R_0805.pdf",
+      "manufacturer": "Samsung Electro-Mechanics",
+      "description": "22uF \u00b120% 25V Ceramic Capacitor X5R 0805",
+      "value": "22uF",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C45783",
+      "downloaded_date": "2026-10-02T22:34:17.538204+00:00",
+      "source": "lcsc",
+      "lcsc": "C45783",
+      "status": "ok",
+      "references": [
+        "C26"
+      ],
+      "size_bytes": 7856403,
+      "verification": "unverified"
+    },
+    "ESD5Z5.0T1G": {
+      "file": "ESD5Z5.0T1G_18.6VC_Clamp_9.4A@8_20us_Ipp_ESD_DIODE_SOD-523.pdf",
+      "manufacturer": "onsemi",
+      "description": "18.6VC Clamp 9.4A@8/20us Ipp ESD DIODE SOD-523",
+      "value": "ESD5Z5.0T1G",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/7836f8a2840843608627e5f99ee5ea93.pdf?productCode=C82044",
+      "downloaded_date": "2026-10-02T22:34:18.969416+00:00",
+      "source": "lcsc",
+      "lcsc": "C82044",
+      "status": "ok",
+      "references": [
+        "D1",
+        "D2"
+      ],
+      "size_bytes": 66233,
+      "verification": "verified"
+    },
+    "KT-0603G": {
+      "file": "KT-0603G_Emerald_Green_525nm_LED_Indication_-_Discrete_3.1V_0603.pdf",
+      "manufacturer": "Hubei KENTO Elec",
+      "description": "Emerald Green 525nm LED Indication - Discrete 3.1V 0603",
+      "value": "green",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/69e84a3abd84e5ab5856c47a2d0334ce.pdf?productCode=C12624",
+      "downloaded_date": "2026-10-02T22:34:20.194790+00:00",
+      "source": "lcsc",
+      "lcsc": "C12624",
+      "status": "ok",
+      "references": [
+        "D3"
+      ],
+      "size_bytes": 576251,
+      "verification": "unverified"
+    },
+    "SS34": {
+      "file": "SS34_USB_VBUS_OR-ing_(no_back-feed_into_the_Apple).pdf",
+      "manufacturer": "",
+      "description": "USB VBUS OR-ing (no back-feed into the Apple)",
+      "value": "SS34",
+      "datasheet_url": "https://www.vishay.com/docs/88751/ss32.pdf",
+      "downloaded_date": "2026-10-02T22:34:21.457708+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "D4"
+      ],
+      "size_bytes": 1055136,
+      "verification": "verified"
+    },
+    "TYPE-C-31-M-12": {
+      "file": "TYPE-C-31-M-12_USB-C_(USB_TYPE-C)_Receptacle_Connector_16_Position_Surface_Mount.pdf",
+      "manufacturer": "Korean Hroparts Elec",
+      "description": "USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount",
+      "value": "USB-C",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/9e56b777c022540fcce7c7f67825f55e.pdf?productCode=C165948",
+      "downloaded_date": "2026-10-02T22:34:22.541718+00:00",
+      "source": "lcsc",
+      "lcsc": "C165948",
+      "status": "ok",
+      "references": [
+        "J3"
+      ],
+      "size_bytes": 118176,
+      "verification": "unverified"
+    },
+    "AOTA-B201610S3R3-101-T": {
+      "file": "AOTA-B201610S3R3-101-T_RP2350_core_SMPS_inductor.pdf",
+      "manufacturer": "ABRACON",
+      "description": "RP2350 core SMPS inductor",
+      "value": "3.3uH",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0ca6a1bbc70fd13a89f7695ff7dd8558.pdf?productCode=C42411119",
+      "downloaded_date": "2026-10-02T22:34:26.166461+00:00",
+      "source": "lcsc",
+      "lcsc": "C42411119",
+      "status": "ok",
+      "references": [
+        "L1"
+      ],
+      "size_bytes": 708418,
+      "verification": "verified"
+    },
+    "AO3401A": {
+      "file": "AO3401A_slot_5V_switch_G_=_VBUS_S_=_+5V_D_=_SLOT_5V.pdf",
+      "manufacturer": "",
+      "description": "slot 5V switch: G = VBUS, S = +5V, D = SLOT_5V",
+      "value": "AO3401A",
+      "datasheet_url": "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf",
+      "downloaded_date": "2026-10-02T22:34:27.229739+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "Q1"
+      ],
+      "size_bytes": 326568,
+      "verification": "verified"
+    },
+    "0603WAF330JT5E": {
+      "file": "0603WAF330JT5E_33\u03a9_\u00b11%_100mW_0603_Thick_Film_Resistor.pdf",
+      "manufacturer": "UNI-ROYAL",
+      "description": "33\u03a9 \u00b11% 100mW 0603 Thick Film Resistor",
+      "value": "33R",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C23140",
+      "downloaded_date": "2026-10-02T22:34:27.827707+00:00",
+      "source": "lcsc",
+      "lcsc": "C23140",
+      "status": "ok",
+      "references": [
+        "R1"
+      ],
+      "size_bytes": 467557,
+      "verification": "likely"
+    },
+    "0603WAF1003T5E": {
+      "file": "0603WAF1003T5E_100k\u03a9_\u00b11%_100mW_0603_Thick_Film_Resistor.pdf",
+      "manufacturer": "UNI-ROYAL",
+      "description": "100k\u03a9 \u00b11% 100mW 0603 Thick Film Resistor",
+      "value": "100k",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25803",
+      "downloaded_date": "2026-10-02T22:34:28.915367+00:00",
+      "source": "lcsc",
+      "lcsc": "C25803",
+      "status": "ok",
+      "references": [
+        "R11"
+      ],
+      "size_bytes": 467557,
+      "verification": "likely"
+    },
+    "0603WAF1001T5E": {
+      "file": "0603WAF1001T5E_1k\u03a9_\u00b11%_100mW_0603_Thick_Film_Resistor.pdf",
+      "manufacturer": "UNI-ROYAL",
+      "description": "1k\u03a9 \u00b11% 100mW 0603 Thick Film Resistor",
+      "value": "1k",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C21190",
+      "downloaded_date": "2026-10-02T22:34:29.962372+00:00",
+      "source": "lcsc",
+      "lcsc": "C21190",
+      "status": "ok",
+      "references": [
+        "R2",
+        "R4",
+        "R9"
+      ],
+      "size_bytes": 467557,
+      "verification": "likely"
+    },
+    "0603WAF1002T5E": {
+      "manufacturer": "",
+      "description": "RUN pull-up",
+      "value": "10k",
+      "references": [
+        "R3",
+        "R10",
+        "R12",
+        "R13",
+        "R14"
+      ],
+      "status": "not_found",
+      "error": "No LCSC results for 'C25804' or '0603WAF1002T5E'",
+      "last_attempt": "2026-10-02T22:34:30.930956+00:00"
+    },
+    "0603WAF5101T5E": {
+      "file": "0603WAF5101T5E_5.1k\u03a9_\u00b11%_100mW_0603_Thick_Film_Resistor.pdf",
+      "manufacturer": "UNI-ROYAL",
+      "description": "5.1k\u03a9 \u00b11% 100mW 0603 Thick Film Resistor",
+      "value": "5.1k",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C23186",
+      "downloaded_date": "2026-10-02T22:34:32.359930+00:00",
+      "source": "lcsc",
+      "lcsc": "C23186",
+      "status": "ok",
+      "references": [
+        "R5",
+        "R6"
+      ],
+      "size_bytes": 467557,
+      "verification": "likely"
+    },
+    "0603WAF270JT5E": {
+      "file": "0603WAF270JT5E_27\u03a9_\u00b11%_100mW_0603_Thick_Film_Resistor.pdf",
+      "manufacturer": "UNI-ROYAL",
+      "description": "27\u03a9 \u00b11% 100mW 0603 Thick Film Resistor",
+      "value": "27R",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/0a975aaa49b7c97f38a963127be4a823.pdf?productCode=C25190",
+      "downloaded_date": "2026-10-02T22:34:33.599401+00:00",
+      "source": "lcsc",
+      "lcsc": "C25190",
+      "status": "ok",
+      "references": [
+        "R7",
+        "R8"
+      ],
+      "size_bytes": 467557,
+      "verification": "likely"
+    },
+    "TL3342F160QG": {
+      "file": "TL3342F160QG_Tactile_Switch_SPST_160gf_1.54mm_Gull_Wing_5.2mm_x_5.2mm_Surface_Mount.pdf",
+      "manufacturer": "E-Switch",
+      "description": "Tactile Switch SPST 160gf 1.54mm Gull Wing 5.2mm x 5.2mm Surface Mount",
+      "value": "BOOTSEL",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/353355a957a341cf3267b86a7b417f7f.pdf?productCode=C2886898",
+      "downloaded_date": "2026-10-02T22:34:35.724618+00:00",
+      "source": "lcsc",
+      "lcsc": "C2886898",
+      "status": "ok",
+      "references": [
+        "SW2"
+      ],
+      "size_bytes": 240782,
+      "verification": "unverified"
+    },
+    "RP2354B": {
+      "file": "RP2354B_RP2350B_+_2MB_flash_FROB_RAM_control_status_and_mailbox_registers_both_buses.pdf",
+      "manufacturer": "",
+      "description": "RP2350B + 2MB flash: FROB RAM, control/status and mailbox registers, both buses",
+      "value": "RP2354B",
+      "datasheet_url": "https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf",
+      "downloaded_date": "2026-10-02T22:34:36.658509+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U1"
+      ],
+      "size_bytes": 11094994,
+      "verification": "unverified"
+    },
+    "SN74LVC245APWR": {
+      "file": "SN74LVC245APWR_Apple_D0-D7_buffer_DIR_=_R_W_enabled_only_during_this_slot's_IOSEL_or_DEVSEL.pdf",
+      "manufacturer": "",
+      "description": "Apple D0-D7 buffer: DIR = R/W, enabled only during this slot's /IOSEL or /DEVSEL",
+      "value": "74LVC245A",
+      "datasheet_url": "http://www.ti.com/lit/gpn/sn74HC245",
+      "downloaded_date": "2026-10-02T22:34:38.393257+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U2",
+        "U7"
+      ],
+      "size_bytes": 2942326,
+      "verification": "unverified"
+    },
+    "SN74LVC1G0832DBVR": {
+      "file": "SN74LVC1G0832DBVR_Apple_buffer_OE_=_(_IOSEL_&_DEVSEL)_A2_DOE_N.pdf",
+      "manufacturer": "",
+      "description": "Apple buffer /OE = (/IOSEL & /DEVSEL) | A2_DOE_N",
+      "value": "74LVC1G0832",
+      "datasheet_url": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+      "downloaded_date": "2026-10-02T22:34:38.857585+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U3"
+      ],
+      "size_bytes": 4521892,
+      "verification": "unverified"
+    },
+    "AP2112K-3.3TRG1": {
+      "file": "AP2112K-3.3TRG1_3.3V_LDO_600mA_fast_start_every_3.3V_load.pdf",
+      "manufacturer": "",
+      "description": "3.3V LDO, 600mA, fast start: every 3.3V load",
+      "value": "AP2112K-3.3",
+      "datasheet_url": "https://www.diodes.com/assets/Datasheets/AP2112.pdf",
+      "downloaded_date": "2026-10-02T22:34:39.379521+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U4"
+      ],
+      "size_bytes": 755270,
+      "verification": "likely"
+    },
+    "SN74LVCH245APWR": {
+      "file": "SN74LVCH245APWR_2600_A0-A7_in.pdf",
+      "manufacturer": "",
+      "description": "2600 A0-A7 in",
+      "value": "74LVCH245A",
+      "datasheet_url": "http://www.ti.com/lit/gpn/sn74HC245",
+      "downloaded_date": "2026-10-02T22:34:39.582381+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U5",
+        "U6"
+      ],
+      "size_bytes": 2942326,
+      "verification": "unverified"
+    },
+    "SN74LVC1G32DBVR": {
+      "file": "SN74LVC1G32DBVR_2600_data_buffer_OE_=_CE_V_DOE_N.pdf",
+      "manufacturer": "",
+      "description": "2600 data buffer /OE = /CE | V_DOE_N",
+      "value": "74LVC1G32",
+      "datasheet_url": "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf",
+      "downloaded_date": "2026-10-02T22:34:39.982285+00:00",
+      "source": "schematic",
+      "status": "ok",
+      "references": [
+        "U8"
+      ],
+      "size_bytes": 4521892,
+      "verification": "unverified"
+    },
+    "ABM8-272-T3": {
+      "file": "ABM8-272-T3_-40\u2103~+85\u2103_10pF_12MHz_50\u03a9_Crystal_Oscillator_\u00b130ppm_\u00b130ppm_SMD3225-4P.pdf",
+      "manufacturer": "ABRACON",
+      "description": "-40\u2103~+85\u2103 10pF 12MHz 50\u03a9 Crystal Oscillator \u00b130ppm \u00b130ppm SMD3225-4P Crystals ROHS",
+      "value": "12MHz",
+      "datasheet_url": "https://datasheet.lcsc.com/datasheet/pdf/d5520a242c89eeaef42f6496027f72da.pdf?productCode=C20625731",
+      "downloaded_date": "2026-10-02T22:34:40.333578+00:00",
+      "source": "lcsc",
+      "lcsc": "C20625731",
+      "status": "ok",
+      "references": [
+        "Y1"
+      ],
+      "size_bytes": 691102,
+      "verification": "verified"
+    }
+  }
+}

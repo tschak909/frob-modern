@@ -1,0 +1,21 @@
+(version 1)
+(rule "rp2350_core_corner"
+	(condition "A.NetName == 'DVDD' || A.NetName == '*RP_LX' || A.NetName == '*VREG_AVDD'")
+	(constraint clearance (min 0.12mm)))
+(rule "default_clearance"
+	(condition "A.NetName != 'DVDD' && A.NetName != '*RP_LX' && A.NetName != '*VREG_AVDD' && B.NetName != 'DVDD' && B.NetName != '*RP_LX' && B.NetName != '*VREG_AVDD'")
+	(constraint clearance (min 0.15mm)))
+(rule "gnd_solid_under_ics"
+	(condition "A.NetName == 'GND' && (A.memberOfFootprint('U1') || A.memberOfFootprint('U4'))")
+	(constraint zone_connection solid))
+(rule "via_in_pad"
+	(condition "A.Type == 'Via' && A.Hole_Size < 0.2mm")
+	(constraint annular_width (min 0.05mm))
+	(constraint hole_clearance (min 0.2mm)))
+(rule "normal_vias"
+	(condition "A.Type == 'Via' && A.Hole_Size >= 0.2mm")
+	(constraint annular_width (min 0.125mm))
+	(constraint hole_clearance (min 0.25mm)))
+(rule "finger_edge"
+	(condition "A.memberOfFootprint('J1')")
+	(constraint edge_clearance (min 0.2mm)))

@@ -1,0 +1,12 @@
+analysis/
+*-backups/
+fp-info-cache
+*.kicad_prl
+.history/
+_autosave-*
+*.lck
+exports/*.dsn
+exports/*.ses
+exports/freerouting.log
+datasheets/*.pdf
+datasheets/rp.txt
